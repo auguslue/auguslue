@@ -1,12 +1,11 @@
 ## ↳  Building systems that work.
-**Backend Developer** | **Mechatronics Eng. Student** | **CS Graduate**
+**Backend Developer** | **Bachelor’s Degree in Computer Science** | **Mechatronics Eng. Student** 
 
-I focus on clean code, reliable infrastructure, and terminal-first workflows.  
-Inspired by the precision of Formula 1 engineering and the impact of biomedical technology.
+I focus on what I can control: clean code, reliable infrastructure, and terminal-first workflows. Inspired by the precision of high-stakes engineering (F1) and technology with human impact (biomedical).
 
-### Stack
-`Python` `Bash` `Linux` `Docker` `PostgreSQL` `REST APIs` `Git`
+### Stack:
+`Python` `Bash` `Linux` `Docker` `REST APIs` `Git`
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
-→ Open to backend/DevOps opportunities.
+→ Open to roles where fundamentals, discipline, and continuous learning are valued.
