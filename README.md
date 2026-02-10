@@ -1,10 +1,14 @@
 ## ↳  Building systems that work.
 **Backend Developer** | **Bachelor’s Degree in Computer Science** | **Mechatronics Eng. Student** 
 
-I focus on what I can control: clean code, reliable infrastructure, and terminal-first workflows. Inspired by the precision of high-stakes engineering (F1) and technology with human impact (biomedical).
+Focused on clean code, reliable infrastructure, and terminal-first workflows.  
+Inspired by precision engineering and technology with real-world impact.
 
 ### Stack:
 `Python` `Bash` `Linux` `Docker` `REST APIs` `Git`
+
+### Languages
+`Spanish (native)` | `English (fluent)` | `Italian (basic)`
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
