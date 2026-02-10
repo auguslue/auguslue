@@ -1,5 +1,5 @@
 ## ↳  Building systems that work.
-**Backend Developer** | **Bachelor’s Degree in Computer Science** | **Mechatronics Eng. Student** 
+**Backend & IT Systems** | **Bachelor’s Degree in Computer Science** | **Mechatronics Eng. Student** 
 
 Focused on clean code, reliable infrastructure, and terminal-first workflows.  
 Inspired by precision engineering and technology with real-world impact.
