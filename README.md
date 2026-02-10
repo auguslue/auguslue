@@ -5,7 +5,8 @@ Focused on clean code, reliable infrastructure, and terminal-first workflows.
 Inspired by precision engineering and technology with real-world impact.
 
 ### Stack:
-`Python` `Bash` `Linux` `Docker` `REST APIs` `Git`
+`Python` `Bash` `Linux` `Docker` `REST APIs` `Git` `SQL` `Networking fundamentals`
+
 
 ### Languages
 `Spanish (native)` | `English (fluent)` | `Italian (basic)`
