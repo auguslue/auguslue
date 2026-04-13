@@ -1,15 +1,15 @@
 ## ↳  Building systems that work.
 **Backend & Data Infrastructure** | **B.S. in Computer Science** 
 
-Focused on clean code, reliable infrastructure, and terminal-first workflows.  
-Inspired by precision engineering and technology with real-world impact.
+Focused on data integrity, process automation, and terminal workflows.
+Interested in applying technology to solve logistics problems and perform statistical analysis.t.
 
 ### Stack:
-`Python` `Bash` `Linux` `Docker` `REST APIs` `Git` `SQL` `Networking fundamentals`
+`Python` `C/C++` `Git` `SQL` `REST APIs` `Linux` `Windows Server` `Networking fundamentals`
 
 
 ### Languages
-`Spanish (native)` | `English (fluent)` | `Italian (basic)`
+`Spanish (native)` | `English (A2+/B1)` 
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
