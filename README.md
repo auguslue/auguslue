@@ -5,7 +5,7 @@ Focused on data integrity, process automation, and terminal workflows.
 Interested in applying technology to solve logistics problems and perform statistical analysis.t.
 
 ### Stack:
-`Python` `C/C++` `Git` `SQL` `REST APIs` `Linux` `Windows Server` `Networking fundamentals`
+`Python` `C/C++` `JavaScript` `Git` `SQL` `REST APIs` `Linux` `Windows Server` `Networking fundamentals`
 
 
 ### Languages
@@ -13,4 +13,4 @@ Interested in applying technology to solve logistics problems and perform statis
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
-→ Open to roles where fundamentals, discipline, and continuous learning are valued.
+→ Looking for a chance to contribute, learn, and build reliable things.
