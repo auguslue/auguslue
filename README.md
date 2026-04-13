@@ -1,5 +1,5 @@
 ## ↳  Building systems that work.
-**Backend & IT Systems** | **Bachelor’s Degree in Computer Science** | **Mechatronics Eng. Student** 
+**Backend & Data Infrastructure** | **B.S. in Computer Science** 
 
 Focused on clean code, reliable infrastructure, and terminal-first workflows.  
 Inspired by precision engineering and technology with real-world impact.
