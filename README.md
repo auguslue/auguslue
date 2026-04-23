@@ -1,5 +1,5 @@
 ## ↳  Building systems that work.
-**Backend & Data Infrastructure** | **B.S. in Computer Science** 
+**B.S. in Computer Science** | **Linux Enthusiast & STEM Advocate**
 
 Focused on data integrity, process automation, and terminal workflows.
 Interested in applying technology to solve logistics problems and perform statistical analysis.t.
