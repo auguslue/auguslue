@@ -9,9 +9,9 @@ Experienced in diagnostic support for educational technological infrastructure a
 ### Core Stack:
 `Python (Automation & Scripting)` `SQL` `Linux (Administration)` `Windows Server` `Hardware Diagnostics` `Networking Fundamentals`
 
-### Languages
-`Spanish (Native)` | `English (B1)`
+### Languages 
+`Spanish (Native)` | `English (B1)` 
 
 ---
 
-> *→ Technology should be a tool to simplify processes, reduce friction, and empower people to do their best work.*
+> *Technology should be a tool to simplify processes, reduce friction, and empower people to do their best work.*
