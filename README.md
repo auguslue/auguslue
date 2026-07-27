@@ -3,16 +3,18 @@
 ## ↳ Infrastructure, Automation & IT Support
 **B.S. Computer Science**
 
-Work centered on maintaining reliable systems, automating processes under strict compliance, and optimizing hardware and software performance across educational infrastructure.
+I am Augusto, an IT support specialist focused on system reliability, process automation, and data integrity.
 
 </div>
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
-### Core Stack:
-`Python (Automation & Scripting)` `SQL` `Linux (Administration)` `Windows Server` `Hardware Diagnostics` `Networking Fundamentals`
 
+<div align="center">
+  
+When I'm not working, you can find me creating content for my social media, hiking, or climbing.
 
+</div>
 
 ---
 
