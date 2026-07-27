@@ -12,8 +12,7 @@ Work centered on maintaining reliable systems, automating processes under strict
 ### Core Stack:
 `Python (Automation & Scripting)` `SQL` `Linux (Administration)` `Windows Server` `Hardware Diagnostics` `Networking Fundamentals`
 
-### Languages 
-`Spanish (Native)` | `English (B1)` 
+
 
 ---
 
