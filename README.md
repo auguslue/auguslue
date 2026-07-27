@@ -14,8 +14,10 @@ I am Augusto, an IT support specialist focused on system reliability, process au
   
 When I'm not working, you can find me creating content for my social media, hiking, or climbing.
 
+> *There's a quiet pride in building something that runs while you sleep. Not because it's clever, but because it means someone else won't wake up to a broken system they don't know how to fix. That's the whole point.*
+
 </div>
 
----
 
-> *Technology should be a tool to simplify processes, reduce friction, and empower people to do their best work.*
+
+
