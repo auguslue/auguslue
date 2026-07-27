@@ -1,8 +1,11 @@
-## ↳ Infrastructure, Automation & IT Support
-**B.S. in Computer Science** | **Technical Support & Process Automation**
+<div align="center">
 
-Focused on maintaining data integrity, hardware/software optimization, and process automation. 
-Experienced in diagnostic support for educational technological infrastructure and process coordination under strict compliance regulations.
+## ↳ Infrastructure, Automation & IT Support
+**B.S. Computer Science**
+
+Work centered on maintaining reliable systems, automating processes under strict compliance, and optimizing hardware and software performance across educational infrastructure.
+
+</div>
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
