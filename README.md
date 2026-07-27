@@ -1,6 +1,6 @@
 <div align="center">
 
-## ↳ Infrastructure, Automation & IT Support
+## ↳ IT support, Linux, infrastructure, and automation.
 **B.S. Computer Science**
 
 I am Augusto, an IT support specialist focused on system reliability, process automation, and data integrity.
