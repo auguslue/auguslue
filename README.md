@@ -1,9 +1,11 @@
 <div align="center">
 
-## ↳ IT support, Linux, infrastructure, and automation.
-**B.S. Computer Science**
+## ↳ B.S. Computer Science
 
-I am Augusto, an IT support specialist focused on system reliability, process automation, and data integrity.
+I automate the repetitive, harden the fragile, and make sure that when Monday comes, your logs are clean and your users are happy.
+
+Outside the terminal:  
+**🧗 climbing· 🥾 hiking · 🎥 creating content for social media**
 
 </div>
 
@@ -12,10 +14,8 @@ I am Augusto, an IT support specialist focused on system reliability, process au
 
 <div align="center">
   
-When I'm not working, you can find me creating content for my social media, hiking, or climbing.
 
-> *There's a quiet pride in building something that runs while you sleep. Not because it's clever, but because it means someone else won't wake up to a broken system they don't know how to fix. That's the whole point.*
-
+📱 Find me where I share what I learn:  
 
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@augustolue.sh)  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@augustolue.sh)
 
