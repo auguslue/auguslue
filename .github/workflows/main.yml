@@ -1,47 +1,86 @@
-name: Generate Snake Contribution
+# ============================================================
+# Workflow: Update Contribution Snake Animation
+# ============================================================
+# Purpose:
+#   Generates a snake animation that visualizes contribution
+#   activity on the GitHub profile README.
+#
+# Trigger:
+#   - Every 6 hours (to keep the animation fresh)
+#   - Manually via workflow_dispatch (for testing)
+#
+# Output:
+#   - github-snake.svg (light theme)
+#   - github-snake-dark.svg (dark theme with orange snake)
+#   - snake.gif (animated version)
+# ============================================================
+
+name: Update Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Ejecutar cada 6 horas
-  workflow_dispatch:       # Permite ejecución manual
+    - cron: "0 */6 * * *"   # 4 times per day (at 00:00, 06:00, 12:00, 18:00 UTC)
+  workflow_dispatch:        # Manual trigger for debugging
 
 permissions:
-  contents: write          # Permite que el workflow haga commits
+  contents: write           # Required to push generated images back to repo
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-
-    env:
-      GITHUB_USER: augustolue-sh
-      TARGET_BRANCH: main
-
+    
     steps:
-      # 1. Clonar el repositorio
+      # ----------------------------------------------------------
+      # 1. Clone the repository with full history
+      # ----------------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Necesario para acceder al historial completo
+          fetch-depth: 0     # Needed to access full commit history
 
-      # 2. Generar las imágenes de la serpiente
-      - name: Generate Snake Images
+      # ----------------------------------------------------------
+      # 2. Generate snake images using Platane's snk action
+      # ----------------------------------------------------------
+      - name: Generate snake visualizations
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ env.GITHUB_USER }}
+          github_user_name: augustolue-sh
           outputs: |
             ./github-snake.svg
-            ./github-snake-dark.svg?palette=github-dark&color_snake=#ff5900
+            ./github-snake-dark.svg?palette=github-dark&color_snake=#ff63b4 
             ./snake.gif?color_snake=orange
-      # 3. Commit y push de cambios (solo si hay cambios reales)
-      - name: Commit and Push Changes
+
+      # ----------------------------------------------------------
+      # 3. Commit and push only if there are actual changes
+      # ----------------------------------------------------------
+      - name: Commit and push updated images
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add *.svg *.gif
+          # Configure Git with a bot identity
+          git config user.name "GitHub Actions Bot"
+          git config user.email "bot@github-actions.com"
+          
+          # Stage only the expected snake files
+          git add github-snake.svg github-snake-dark.svg snake.gif
+          
+          # Check if anything was actually changed
           if git diff --cached --quiet; then
-            echo "No hay cambios nuevos para commitear."
+            echo "✅ No changes detected. Skipping commit."
             exit 0
           fi
-          git commit -m "chore: update snake contribution [skip ci]"
-          git push origin ${{ env.TARGET_BRANCH }}
+          
+          # Commit with a descriptive message
+          git commit -m "chore(snake): refresh contribution animation [skip ci]"
+          
+          # Push to the main branch
+          git push origin main
+          
+          echo "✅ Snake animation updated successfully!"
 
+      # ----------------------------------------------------------
+      # 4. (Optional) Notify on failure
+      # ----------------------------------------------------------
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ Workflow failed! Check the logs for details."
+          # Here you could add a Slack/Discord/Email notification
