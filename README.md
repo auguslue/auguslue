@@ -1,11 +1,14 @@
 <div align="center">
 
-## ↳ B.S. Computer Science
+## ↳ B.S. in Computer Science | Mechatronics Engineering Student
 
-I automate the repetitive, harden the fragile, and make sure that when Monday comes, your logs are clean and your users are happy.
+Building reliable infrastructure with Linux, automation, and scalable systems.
 
-Outside the terminal:  
-**🧗 climbing· 🥾 hiking · 🎥 creating content for social media**
+I enjoy eliminating repetitive work, improving operational reliability, and designing systems that are simple to maintain.
+
+### Outside the terminal
+
+Climbing · Hiking · Creating educational technology content
 
 </div>
 
