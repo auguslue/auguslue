@@ -2,13 +2,7 @@
 
 ## ↳ B.S. in Computer Science | Mechatronics Engineering Student
 
-Building reliable infrastructure with Linux, automation, and scalable systems.
-
-I enjoy eliminating repetitive work, improving operational reliability, and designing systems that are simple to maintain.
-
-### Outside the terminal
-
-Climbing · Hiking · Creating educational technology content
+Learning to build reliable infrastructure with Linux and automation.
 
 </div>
 
