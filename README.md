@@ -1,8 +1,8 @@
 <div align="center">
 
-## ↳ B.S. in Computer Science | Mechatronics Engineering Student
+## ↳ Licenciado en Computación | Estudiante de Ingeniería Mecatrónica
 
-Learning to build reliable infrastructure with Linux and automation.
+Linux • Automatización • Datos • Tecnología
 
 </div>
 
