@@ -1,6 +1,8 @@
 <div align="center">
 
-## ↳ Licenciado en Computación | Estudiante de Ingeniería Mecatrónica
+## ↳ Hola, soy Mario. 👋🏼
+
+**Licenciado en Computación | Estudiante de Ingeniería Mecatrónica**
 
 Linux • Automatización • Datos • Tecnología
 
