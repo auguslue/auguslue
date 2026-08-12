@@ -1,10 +1,10 @@
 <div align="center">
 
-## ↳ Hello, I’m Mario. 👋🏼
+## ↳ Hola, soy Mario. 👋🏼
 
-**B.Sc. in Computer Science | Mechatronics Engineering Student**
+**Licenciado en Computación | Estudiante de Ingeniería Mecatrónica**
 
-Linux • Automation • Data • Technology
+Linux • Automatización • Datos • Tecnología
 
 </div>
 
