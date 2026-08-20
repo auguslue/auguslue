@@ -2,7 +2,7 @@
 
 ### Hi there! ✌🏻
 
-I am [Augusto Lúe](https://github.com), a Computer Science graduate and a Mechatronics Engineering student.
+I'm [Augusto Lúe](https://github.com), a Computer Science graduate and a second-year Mechatronics Engineering student.
 
 When I'm not working, you can find me trying new food, hiking, or traveling with my fiancée.
 
