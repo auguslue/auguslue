@@ -2,9 +2,16 @@
 
 ### Hi there! ✌🏻
 
-I'm [Augusto Lúe](https://github.com), a Computer Science graduate and a second-year Mechatronics Engineering student.
+I'm [Augusto Lúe](https://github.com), a Computer Science graduate and second-year Mechatronics Engineering student. Passionate about learning, problem-solving, and building technology that makes an impact.
 
-When I'm not working, you can find me trying new food, hiking, or traveling with my fiancée.
+
+Beyond the screen:
+
++  Exploring new food spots.
+
++  Hiking and outdoors.
+
++ Traveling and discovering new places with my fiancée.
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
