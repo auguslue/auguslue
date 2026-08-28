@@ -44,7 +44,7 @@ jobs:
       - name: Generate snake visualizations
         uses: Platane/snk@v3
         with:
-          github_user_name: augustolueSV
+          github_user_name: auguslue
           outputs: |
             ./github-snake.svg
             ./github-snake-dark.svg?palette=github-dark&color_snake=#B87333 
