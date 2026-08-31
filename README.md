@@ -2,8 +2,7 @@
 
 ### Hi there! ✌🏻
 
-I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate and second-year Mechatronics Engineering student. Passionate about learning, problem-solving, and building technology that makes an impact.
-
+I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate. I am a continuous learner and problem solver who develops technology that creates an impact.
 
 Beyond the screen:
 
