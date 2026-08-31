@@ -2,7 +2,9 @@
 
 ### Hi there! ✌🏻
 
-I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate. I am a continuous learner and problem solver who develops technology that creates an impact.
+I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate and a lifelong learner with a passion for solving problems through technology.
+
+I enjoy building, learning, and continuously improving—always looking for ways to turn ideas into useful and meaningful solutions.
 
 Beyond the screen:
 
