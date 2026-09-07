@@ -2,17 +2,15 @@
 
 ### Hi there! ✌🏻
 
-I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate and a lifelong learner with a passion for solving problems through technology.
+I'm [Augusto Lúe Morales](https://github.com), a Computer Science graduate who likes taking ideas apart to see how they work — then rebuilding them better.
 
-I enjoy building, learning, and continuously improving—always looking for ways to turn ideas into useful and meaningful solutions.
+Currently focused on backend systems and automation, with a growing interest in AI tooling.
 
-Beyond the screen:
+Off the screen:
 
-+  Exploring new food spots.
-
-+  Hiking and outdoors.
-
-+ Traveling and discovering new places with my fiancée.
++ Scouting new food spots
++ Hiking and outdoors
++ Traveling with my fiancée
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
 
