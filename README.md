@@ -10,6 +10,7 @@ Off the screen:
 
 + Scouting new food spots
 + Hiking and outdoors
++ I enjoy composing music—with the help of AI, since I can't sing, haha.
 + Traveling with my fiancée
 
 ![Snake animation dark](https://raw.githubusercontent.com/augvstTTY/augvstTTY/main/github-snake-dark.svg)
