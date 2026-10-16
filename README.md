@@ -2,9 +2,7 @@
 
 ### Hi there! ✌🏻
 
-I'm [Augusto Lúe](https://github.com), Computer Science and work as a workflow automation developer. I specialize in Google Workspace and data, transforming repetitive processes into autonomous systems.
-
-Most of my projects start on Ubuntu. I love it: it’s fast, open, and fully customizable to my liking.
+I'm [Augusto Lúe](https://github.com), work as a workflow automation developer. I specialize in Google Workspace and data, transforming repetitive processes into autonomous systems.
 
 ### Beyond the code
 
